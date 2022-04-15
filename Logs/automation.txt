@@ -1,0 +1,423 @@
+03/24/22 10:55:24 am:INFO:**** Test_001_Login ****
+03/24/22 10:55:24 am:INFO:**** Verifying Home PAge Title ****
+03/24/22 10:55:56 am:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 10:55:59 am:INFO:**** Verifying Login test ****
+03/24/22 10:57:59 am:INFO:**** Verifying Login test is  failed ****
+03/24/22 11:01:29 am:INFO:**** Test_001_Login ****
+03/24/22 11:01:29 am:INFO:**** Verifying Home PAge Title ****
+03/24/22 11:01:46 am:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 11:01:48 am:INFO:**** Verifying Login test ****
+03/24/22 11:02:13 am:INFO:**** Verifying Login test is passed ****
+03/24/22 11:17:15 am:INFO:**** Test_001_Login ****
+03/24/22 11:17:15 am:INFO:**** Verifying Home PAge Title ****
+03/24/22 11:19:13 am:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 11:19:16 am:INFO:**** Verifying Login test ****
+03/24/22 11:19:47 am:INFO:**** Verifying Login test is passed ****
+03/24/22 12:53:48 pm:INFO:**** Test_001_Login ****
+03/24/22 12:53:48 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 12:54:03 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 12:54:06 pm:INFO:**** Verifying Login test ****
+03/24/22 12:54:29 pm:INFO:**** Verifying Login test is passed ****
+03/24/22 02:30:52 pm:INFO:**** Test_001_Login ****
+03/24/22 02:30:52 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 02:31:24 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 02:31:27 pm:INFO:**** Verifying Login test ****
+03/24/22 02:32:05 pm:INFO:**** Verifying Login test is passed ****
+03/24/22 02:34:06 pm:INFO:**** Test_001_Login ****
+03/24/22 02:34:06 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 02:34:22 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 02:34:25 pm:INFO:**** Verifying Login test ****
+03/24/22 02:35:04 pm:INFO:**** Verifying Login test is passed ****
+03/24/22 02:47:29 pm:INFO:**** Test_001_Login ****
+03/24/22 02:47:29 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 02:47:45 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 02:47:49 pm:INFO:**** Verifying Login test ****
+03/24/22 02:48:14 pm:INFO:**** Verifying Login test is passed ****
+03/24/22 02:49:34 pm:INFO:**** Test_001_Login ****
+03/24/22 02:49:34 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 02:49:55 pm:INFO:**** Verifying Login test ****
+03/24/22 02:50:10 pm:INFO:**** Test_001_Login ****
+03/24/22 02:50:10 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 02:50:43 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 02:50:48 pm:INFO:**** Verifying Login test ****
+03/24/22 02:51:11 pm:INFO:**** Verifying Login test is passed ****
+03/24/22 02:58:17 pm:INFO:**** Verifying Login test ****
+03/24/22 02:58:17 pm:INFO:**** Test_001_Login ****
+03/24/22 02:58:17 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 02:58:33 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 02:58:40 pm:INFO:**** Verifying Login test is passed ****
+03/24/22 04:00:36 pm:INFO:**** Test_001_Login ****
+03/24/22 04:00:36 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 04:00:52 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 04:00:54 pm:INFO:**** Verifying Login test ****
+03/24/22 04:01:29 pm:INFO:**** Verifying Login test is passed ****
+03/24/22 04:01:48 pm:INFO:**** Test_001_Login ****
+03/24/22 04:01:48 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 04:02:14 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 04:02:18 pm:INFO:**** Verifying Login test ****
+03/24/22 04:02:41 pm:INFO:**** Verifying Login test is passed ****
+03/24/22 04:04:20 pm:INFO:**** Test_001_Login ****
+03/24/22 04:04:20 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 04:04:37 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 04:04:40 pm:INFO:**** Verifying Login test ****
+03/24/22 04:05:06 pm:INFO:**** Verifying Login test is passed ****
+03/24/22 04:06:45 pm:INFO:**** Test_001_Login ****
+03/24/22 04:06:45 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 04:07:04 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 04:07:07 pm:INFO:**** Verifying Login test ****
+03/24/22 04:07:40 pm:INFO:**** Verifying Login test is passed ****
+03/24/22 04:19:50 pm:INFO:**** Test_001_Login ****
+03/24/22 04:19:50 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 04:20:21 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 04:20:24 pm:INFO:**** Verifying Login test ****
+03/24/22 04:27:54 pm:INFO:**** Test_001_Login ****
+03/24/22 04:27:54 pm:INFO:**** Verifying Home PAge Title ****
+03/24/22 04:28:10 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/24/22 04:28:13 pm:INFO:**** Verifying Login test ****
+03/24/22 04:28:35 pm:INFO:**** Verifying Login test is passed ****
+03/28/22 11:15:38 am:INFO:****Test_002_DDT_Login*****
+03/28/22 11:15:38 am:INFO:**** Verifying Login DDT test ****
+03/28/22 11:18:47 am:INFO:****Test_002_DDT_Login*****
+03/28/22 11:18:47 am:INFO:**** Verifying Login DDT test ****
+03/28/22 11:23:54 am:INFO:****Test_002_DDT_Login*****
+03/28/22 11:23:54 am:INFO:**** Verifying Login DDT test ****
+03/28/22 11:28:30 am:INFO:****Test_002_DDT_Login*****
+03/28/22 11:28:30 am:INFO:**** Verifying Login DDT test ****
+03/28/22 11:29:17 am:INFO:****Test_002_DDT_Login*****
+03/28/22 11:29:17 am:INFO:**** Verifying Login DDT test ****
+03/28/22 12:00:48 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:00:48 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:02:49 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:02:49 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:03:51 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:03:51 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:05:46 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:05:46 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:07:54 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:07:54 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:12:28 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:12:28 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:14:08 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:14:08 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:16:45 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:16:45 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:22:48 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:22:48 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:25:00 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:25:00 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:28:11 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:28:11 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:33:12 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:33:12 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:33:31 pm:INFO:***Failed****
+03/28/22 12:37:51 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:37:51 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:38:11 pm:INFO:***Failed****
+03/28/22 12:42:01 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:42:01 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:42:22 pm:INFO:***Failed****
+03/28/22 12:47:10 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:47:10 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:47:31 pm:INFO:***Failed****
+03/28/22 12:51:23 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 12:51:23 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 12:51:44 pm:INFO:***Failed****
+03/28/22 01:02:31 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 01:02:31 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 01:02:52 pm:INFO:***Failed****
+03/28/22 01:03:49 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 01:03:49 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 01:04:10 pm:INFO:***Failed****
+03/28/22 01:05:31 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 01:05:31 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 01:05:52 pm:INFO:***Failed****
+03/28/22 01:15:36 pm:INFO:**** Test_001_Login ****
+03/28/22 01:15:36 pm:INFO:**** Verifying Home PAge Title ****
+03/28/22 01:16:21 pm:INFO:**** Verifying Login test ****
+03/28/22 01:17:00 pm:INFO:**** Verifying Login test is passed ****
+03/28/22 01:18:49 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 01:18:49 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 01:19:10 pm:INFO:***Failed****
+03/28/22 01:20:06 pm:INFO:**** Test_001_Login ****
+03/28/22 01:20:06 pm:INFO:**** Verifying Home PAge Title ****
+03/28/22 01:20:20 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/28/22 01:20:23 pm:INFO:**** Verifying Login test ****
+03/28/22 01:21:03 pm:INFO:**** Verifying Login test is passed ****
+03/28/22 01:24:43 pm:INFO:**** Test_001_Login ****
+03/28/22 01:24:43 pm:INFO:**** Verifying Home PAge Title ****
+03/28/22 01:25:15 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/28/22 01:25:18 pm:INFO:**** Verifying Login test ****
+03/28/22 01:25:56 pm:INFO:**** Verifying Login test is passed ****
+03/28/22 01:26:54 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 01:26:54 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 01:28:41 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 01:28:41 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 01:29:03 pm:INFO:***Failed****
+03/28/22 01:30:23 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 01:30:23 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 01:30:44 pm:INFO:***Failed****
+03/28/22 02:44:02 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 02:44:02 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 02:44:23 pm:INFO:***Failed****
+03/28/22 02:58:15 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 02:58:15 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 02:58:38 pm:INFO:***Failed****
+03/28/22 03:00:16 pm:INFO:****Test_002_DDT_Login*****
+03/28/22 03:00:16 pm:INFO:**** Verifying Login DDT test ****
+03/28/22 03:00:57 pm:INFO:***Failed****
+03/28/22 03:17:53 pm:INFO:**** Test_001_Login ****
+03/28/22 03:17:53 pm:INFO:**** Verifying Home PAge Title ****
+03/28/22 03:18:10 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/28/22 03:18:12 pm:INFO:**** Verifying Login test ****
+03/28/22 05:11:35 pm:INFO:**** Test_001_Login ****
+03/28/22 05:11:35 pm:INFO:**** Verifying Home PAge Title ****
+03/28/22 05:12:07 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/28/22 05:12:10 pm:INFO:**** Verifying Login test ****
+03/28/22 05:14:09 pm:INFO:**** Verifying Login test is  failed ****
+03/28/22 05:16:37 pm:INFO:**** Test_001_Login ****
+03/28/22 05:16:37 pm:INFO:**** Verifying Home PAge Title ****
+03/28/22 05:16:53 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/28/22 05:16:56 pm:INFO:**** Verifying Login test ****
+03/28/22 05:18:40 pm:INFO:**** Verifying Login test is passed ****
+03/28/22 05:35:48 pm:INFO:**** Test_001_Login ****
+03/28/22 05:35:48 pm:INFO:**** Verifying Home PAge Title ****
+03/28/22 05:36:04 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/28/22 05:36:06 pm:INFO:**** Verifying Login test ****
+03/28/22 05:36:44 pm:INFO:**** Verifying Login test is passed ****
+03/28/22 05:37:47 pm:INFO:**** Test_001_Login ****
+03/28/22 05:37:47 pm:INFO:**** Verifying Home PAge Title ****
+03/28/22 05:38:02 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/28/22 05:38:05 pm:INFO:**** Verifying Login test ****
+03/28/22 05:38:42 pm:INFO:**** Verifying Login test is passed ****
+03/28/22 05:39:11 pm:INFO:**** Test_001_Login ****
+03/28/22 05:39:11 pm:INFO:**** Verifying Home PAge Title ****
+03/28/22 05:39:37 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/28/22 05:39:40 pm:INFO:**** Verifying Login test ****
+03/28/22 05:40:03 pm:INFO:**** Verifying Login test is passed ****
+03/28/22 05:44:15 pm:INFO:**** Test_001_Login ****
+03/28/22 05:44:15 pm:INFO:**** Verifying Home PAge Title ****
+03/28/22 05:44:32 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/28/22 05:44:35 pm:INFO:**** Verifying Login test ****
+03/28/22 05:45:21 pm:INFO:**** Test_001_Login ****
+03/28/22 05:45:21 pm:INFO:**** Verifying Home PAge Title ****
+03/28/22 05:45:36 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+03/28/22 05:45:39 pm:INFO:**** Verifying Login test ****
+03/28/22 05:46:02 pm:INFO:**** Verifying Login test is passed ****
+03/29/22 04:37:01 pm:INFO:****Test_002_DDT_Login*****
+03/29/22 04:37:01 pm:INFO:**** Verifying Login DDT test ****
+03/29/22 04:37:25 pm:INFO:***Failed****
+04/04/22 04:49:57 pm:INFO:**** Test_001_Login ****
+04/04/22 04:49:57 pm:INFO:**** Verifying Home PAge Title ****
+04/04/22 04:50:16 pm:INFO:***** Verifying Home PAge Title Test is passed *****
+04/04/22 04:50:18 pm:INFO:**** Verifying Login test ****
+04/04/22 04:50:56 pm:INFO:**** Verifying Login test is passed ****
+04/05/22 03:04:00 pm:INFO:***** Login Successful ***** 
+04/05/22 03:16:32 pm:INFO:***** Login Successful ***** 
+04/05/22 03:20:37 pm:INFO:***** Login Successful ***** 
+04/05/22 03:20:52 pm:INFO:**** Create New Customer Details ****
+04/05/22 03:22:06 pm:INFO:***** Login Successful ***** 
+04/05/22 03:23:57 pm:INFO:**** Create New Customer Details ****
+04/05/22 03:29:55 pm:INFO:***** Login Successful ***** 
+04/05/22 03:30:07 pm:INFO:**** Create New Customer Details ****
+04/05/22 03:42:40 pm:INFO:***** Login Successful ***** 
+04/05/22 03:42:54 pm:INFO:**** Create New Customer Details ****
+04/05/22 03:59:48 pm:INFO:***** Login Successful ***** 
+04/05/22 04:00:01 pm:INFO:**** Create New Customer Details ****
+04/05/22 04:02:03 pm:INFO:***** Login Successful ***** 
+04/05/22 04:02:15 pm:INFO:**** Create New Customer Details ****
+04/05/22 04:06:44 pm:INFO:***** Login Successful ***** 
+04/05/22 04:07:00 pm:INFO:**** Create New Customer Details ****
+04/05/22 04:11:54 pm:INFO:***** Login Successful ***** 
+04/05/22 04:12:08 pm:INFO:**** Create New Customer Details ****
+04/05/22 04:15:32 pm:INFO:***** Login Successful ***** 
+04/05/22 04:15:45 pm:INFO:**** Create New Customer Details ****
+04/05/22 04:26:28 pm:INFO:***** Login Successful ***** 
+04/05/22 04:27:20 pm:INFO:***** Login Successful ***** 
+04/05/22 04:27:32 pm:INFO:**** Create New Customer Details ****
+04/05/22 04:30:07 pm:INFO:***** Login Successful ***** 
+04/05/22 04:30:20 pm:INFO:**** Create New Customer Details ****
+04/05/22 04:34:00 pm:INFO:***** Login Successful ***** 
+04/05/22 04:34:13 pm:INFO:**** Create New Customer Details ****
+04/05/22 04:50:03 pm:INFO:***** Login Successful ***** 
+04/05/22 04:50:16 pm:INFO:**** Create New Customer Details ****
+04/05/22 04:52:20 pm:INFO:***** Login Successful ***** 
+04/05/22 04:52:33 pm:INFO:**** Create New Customer Details ****
+04/05/22 04:54:04 pm:INFO:***** Login Successful ***** 
+04/05/22 04:54:18 pm:INFO:**** Create New Customer Details ****
+04/05/22 04:56:25 pm:INFO:***** Login Successful ***** 
+04/05/22 04:56:38 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:00:21 pm:INFO:***** Login Successful ***** 
+04/05/22 05:02:13 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:03:00 pm:INFO:***** Login Successful ***** 
+04/05/22 05:03:14 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:09:02 pm:INFO:***** Login Successful ***** 
+04/05/22 05:09:15 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:16:31 pm:INFO:***** Login Successful ***** 
+04/05/22 05:16:43 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:18:39 pm:INFO:***** Login Successful ***** 
+04/05/22 05:20:30 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:22:42 pm:INFO:***** Login Successful ***** 
+04/05/22 05:24:29 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:27:19 pm:INFO:***** Login Successful ***** 
+04/05/22 05:28:05 pm:INFO:***** Login Successful ***** 
+04/05/22 05:28:30 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:39:17 pm:INFO:***** Login Successful ***** 
+04/05/22 05:39:26 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:40:19 pm:INFO:***** Login Successful ***** 
+04/05/22 05:40:27 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:42:16 pm:INFO:***** Login Successful ***** 
+04/05/22 05:42:40 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:43:16 pm:INFO:***** Login Successful ***** 
+04/05/22 05:43:24 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:43:48 pm:INFO:***** Login Successful ***** 
+04/05/22 05:43:56 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:53:09 pm:INFO:***** Login Successful ***** 
+04/05/22 05:53:18 pm:INFO:**** Create New Customer Details ****
+04/05/22 05:55:01 pm:INFO:***** Login Successful ***** 
+04/05/22 05:55:09 pm:INFO:**** Create New Customer Details ****
+04/06/22 09:50:28 am:INFO:***** Login Successful ***** 
+04/06/22 09:50:38 am:INFO:**** Create New Customer Details ****
+04/06/22 09:59:05 am:INFO:***** Login Successful ***** 
+04/06/22 09:59:14 am:INFO:**** Create New Customer Details ****
+04/06/22 10:10:01 am:INFO:***** Login Successful ***** 
+04/06/22 10:10:10 am:INFO:**** Create New Customer Details ****
+04/06/22 10:12:08 am:INFO:***** Login Successful ***** 
+04/06/22 10:12:16 am:INFO:**** Create New Customer Details ****
+04/06/22 10:20:16 am:INFO:***** Login Successful ***** 
+04/06/22 10:20:45 am:INFO:**** Create New Customer Details ****
+04/06/22 10:43:48 am:INFO:***** Login Successful ***** 
+04/06/22 10:43:57 am:INFO:**** Create New Customer Details ****
+04/06/22 10:59:16 am:INFO:***** Login Successful ***** 
+04/06/22 10:59:26 am:INFO:**** Create New Customer Details ****
+04/06/22 11:01:20 am:INFO:***** Login Successful ***** 
+04/06/22 11:01:28 am:INFO:**** Create New Customer Details ****
+04/06/22 11:11:00 am:INFO:***** Login Successful ***** 
+04/06/22 11:11:57 am:INFO:***** Login Successful ***** 
+04/06/22 11:12:06 am:INFO:**** Create New Customer Details ****
+04/06/22 11:25:16 am:INFO:***** Login Successful ***** 
+04/06/22 11:27:05 am:INFO:**** Create New Customer Details ****
+04/06/22 11:29:42 am:INFO:***** Login Successful ***** 
+04/06/22 11:31:29 am:INFO:**** Create New Customer Details ****
+04/06/22 11:56:54 am:INFO:***** Login Successful ***** 
+04/06/22 11:57:03 am:INFO:**** Create New Customer Details ****
+04/06/22 12:03:13 pm:INFO:***** Login Successful ***** 
+04/06/22 12:03:22 pm:INFO:**** Create New Customer Details ****
+04/06/22 12:04:05 pm:INFO:**** Saving customer information ****
+04/06/22 12:04:06 pm:INFO:**** Add customer Test Passed ***
+04/06/22 12:04:06 pm:INFO:**** Ending Home PAge ****
+04/06/22 12:07:31 pm:INFO:***** Login Successful ***** 
+04/06/22 12:07:40 pm:INFO:**** Create New Customer Details ****
+04/06/22 12:08:25 pm:INFO:**** Saving customer information ****
+04/06/22 12:08:26 pm:INFO:**** Add customer Test Passed ***
+04/06/22 12:08:26 pm:INFO:**** Ending Home PAge ****
+04/06/22 12:16:38 pm:INFO:***** Login Successful ***** 
+04/06/22 12:16:58 pm:INFO:**** Create New Customer Details ****
+04/06/22 12:18:08 pm:INFO:**** Saving customer information ****
+04/06/22 12:18:09 pm:INFO:**** Add customer Test Passed ***
+04/06/22 12:18:09 pm:INFO:**** Ending Home PAge ****
+04/06/22 12:36:03 pm:INFO:***** Login Successful ***** 
+04/06/22 12:49:42 pm:INFO:***** Login Successful ***** 
+04/06/22 12:51:29 pm:INFO:**** Create New Customer Details ****
+04/06/22 12:54:09 pm:INFO:**** Saving customer information ****
+04/06/22 12:54:09 pm:INFO:**** Add customer Test Passed ***
+04/06/22 12:54:09 pm:INFO:**** Ending Home PAge ****
+04/06/22 01:07:21 pm:INFO:***** Login Successful ***** 
+04/06/22 01:07:29 pm:INFO:**** Create New Customer Details ****
+04/06/22 01:08:16 pm:INFO:**** Saving customer information ****
+04/06/22 01:08:16 pm:INFO:**** Add customer Test Passed ***
+04/06/22 01:08:16 pm:INFO:**** Ending Home PAge ****
+04/06/22 01:18:55 pm:INFO:***** Login Successful ***** 
+04/06/22 01:19:58 pm:INFO:**** Create New Customer Details ****
+04/06/22 02:24:54 pm:INFO:***** Login Successful ***** 
+04/06/22 02:25:07 pm:INFO:**** Create New Customer Details ****
+04/06/22 02:25:51 pm:INFO:**** Saving customer information ****
+04/06/22 02:25:51 pm:INFO:**** Add customer Test Passed ***
+04/06/22 02:25:52 pm:INFO:**** Ending Home PAge ****
+04/06/22 02:29:15 pm:INFO:***** Login Successful ***** 
+04/06/22 02:29:24 pm:INFO:**** Create New Customer Details ****
+04/06/22 02:30:11 pm:INFO:**** Saving customer information ****
+04/06/22 02:30:11 pm:INFO:**** Add customer Test Passed ***
+04/06/22 02:30:11 pm:INFO:**** Ending Home PAge ****
+04/06/22 05:32:36 pm:INFO:Search customer by email
+04/06/22 05:33:20 pm:INFO:*** Login successfully completed ****
+04/06/22 05:33:29 pm:INFO:*** Searching customer by emailID ****
+04/06/22 05:35:27 pm:INFO:Search customer by email
+04/06/22 05:35:52 pm:INFO:*** Login successfully completed ****
+04/06/22 05:36:59 pm:INFO:*** Searching customer by emailID ****
+04/06/22 05:43:19 pm:INFO:Search customer by email
+04/06/22 05:43:43 pm:INFO:*** Login successfully completed ****
+04/06/22 05:43:49 pm:INFO:*** Searching customer by emailID ****
+04/06/22 05:46:03 pm:INFO:Search customer by email
+04/06/22 05:46:37 pm:INFO:*** Login successfully completed ****
+04/06/22 05:46:43 pm:INFO:*** Searching customer by emailID ****
+04/06/22 05:56:27 pm:INFO:Search customer by email
+04/06/22 05:57:09 pm:INFO:*** Login successfully completed ****
+04/06/22 05:57:14 pm:INFO:*** Searching customer by emailID ****
+04/06/22 06:03:54 pm:INFO:Search customer by email
+04/06/22 06:04:35 pm:INFO:*** Login successfully completed ****
+04/06/22 06:04:43 pm:INFO:*** Searching customer by emailID ****
+04/06/22 06:11:13 pm:INFO:Search customer by email
+04/06/22 06:11:25 pm:INFO:Search customer by email
+04/06/22 06:11:49 pm:INFO:*** Login successfully completed ****
+04/06/22 06:11:54 pm:INFO:*** Searching customer by emailID ****
+04/06/22 06:15:07 pm:INFO:Search customer by email
+04/06/22 06:15:52 pm:INFO:*** Login successfully completed ****
+04/06/22 06:15:57 pm:INFO:*** Searching customer by emailID ****
+04/06/22 06:19:03 pm:INFO:Search customer by email
+04/06/22 06:19:27 pm:INFO:*** Login successfully completed ****
+04/06/22 06:19:49 pm:INFO:*** Searching customer by emailID ****
+04/06/22 06:21:10 pm:INFO:Search customer by email
+04/06/22 06:21:50 pm:INFO:*** Login successfully completed ****
+04/06/22 06:21:55 pm:INFO:*** Searching customer by emailID ****
+04/06/22 06:23:45 pm:INFO:Search customer by email
+04/06/22 06:24:40 pm:INFO:*** Login successfully completed ****
+04/06/22 06:24:45 pm:INFO:*** Searching customer by emailID ****
+04/06/22 06:25:02 pm:INFO:Search customer by email
+04/06/22 06:25:42 pm:INFO:*** Login successfully completed ****
+04/06/22 06:25:50 pm:INFO:*** Searching customer by emailID ****
+04/06/22 06:28:29 pm:INFO:Search customer by email
+04/06/22 06:29:08 pm:INFO:*** Login successfully completed ****
+04/06/22 06:29:13 pm:INFO:*** Searching customer by emailID ****
+04/06/22 06:35:58 pm:INFO:Search customer by email
+04/06/22 06:37:09 pm:INFO:*** Login successfully completed ****
+04/06/22 06:37:14 pm:INFO:*** Searching customer by emailID ****
+04/06/22 06:42:41 pm:INFO:Search customer by email
+04/06/22 06:43:07 pm:INFO:*** Login successfully completed ****
+04/06/22 06:43:12 pm:INFO:*** Searching customer by emailID ****
+04/06/22 06:43:26 pm:INFO: **** Search customer found ***
+04/07/22 09:54:06 am:INFO:Search customer by email
+04/07/22 09:54:46 am:INFO:*** Login successfully completed ****
+04/07/22 09:54:53 am:INFO:*** Searching customer by emailID ****
+04/07/22 09:55:07 am:INFO: **** Search customer found ***
+04/07/22 10:58:46 am:INFO:Search customer by email
+04/07/22 10:59:11 am:INFO:*** Login successfully completed ****
+04/07/22 10:59:17 am:INFO:*** Searching customer by emailID ****
+04/07/22 10:59:33 am:INFO: ****  customer Name Found ***
+04/07/22 11:55:30 am:INFO:Search customer by email
+04/07/22 11:56:44 am:INFO:*** Login successfully completed ****
+04/07/22 11:56:50 am:INFO:*** Searching customer by emailID ****
+04/07/22 02:46:16 pm:INFO:Search customer by email
+04/07/22 02:46:46 pm:INFO:*** Login successfully completed ****
+04/07/22 02:46:52 pm:INFO:*** Searching customer by emailID ****
+04/07/22 02:47:08 pm:INFO: ****  customer Name Found ***
+04/08/22 10:25:53 am:INFO:****Test_002_DDT_Login*****
+04/08/22 10:25:53 am:INFO:**** Verifying Login DDT test ****
+04/08/22 10:26:32 am:INFO:***Failed****
+04/08/22 10:30:55 am:INFO:****Test_002_DDT_Login*****
+04/08/22 10:30:55 am:INFO:**** Verifying Login DDT test ****
+04/08/22 10:33:00 am:INFO:**** Passed ****
+04/08/22 10:33:20 am:INFO:****Passed***
+04/08/22 10:35:27 am:INFO:Search customer by email
+04/08/22 10:35:53 am:INFO:*** Login successfully completed ****
+04/08/22 10:35:58 am:INFO:*** Searching customer by emailID ****
+04/08/22 10:36:27 am:INFO:****Test_002_DDT_Login*****
+04/08/22 10:36:27 am:INFO:**** Verifying Login DDT test ****
+04/08/22 10:37:10 am:INFO:**** Passed ****
+04/08/22 10:48:59 am:INFO:****Test_002_DDT_Login*****
+04/08/22 10:48:59 am:INFO:**** Verifying Login DDT test ****
+04/08/22 11:10:08 am:INFO:****Test_002_DDT_Login*****
+04/08/22 11:10:08 am:INFO:**** Verifying Login DDT test ****
+04/08/22 11:13:01 am:INFO:****Test_002_DDT_Login*****
+04/08/22 11:13:01 am:INFO:**** Verifying Login DDT test ****
+04/08/22 12:15:30 pm:INFO:****Test_002_DDT_Login*****
+04/08/22 12:15:30 pm:INFO:**** Verifying Login DDT test ****
